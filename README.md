@@ -5,7 +5,7 @@
 
 Projeto desenvolvido em 2019 na escola La Salle Abel para atender alunos da Assistência Educacional Especializada
  
-### Post da escola La Salle Abel em suas redes sociais 
+### Post da escola La Salle Abel em suas redes sociais:
 "Vamos brincar de Telefone Sem Fio? 
  No projeto desenvolvido por João Victor Simonassi e Eduardo Levy,
  esta antiga brincadeira é atualizada para auxiliar os
@@ -19,7 +19,7 @@ Projeto desenvolvido em 2019 na escola La Salle Abel para atender alunos da Assi
 #
 Project developed in 2019 at the La Salle Abel school to help students Specialized Educational Assistance
 
-### La Salle Abel School Reviews 
+### La Salle Abel School Reviews:
   "Let's play Cordless Phone?
   In the project developed by João Victor Simonassi and Eduardo Levy,
   this old game is updated to help
