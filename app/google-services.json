@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "949652611257",
+    "firebase_url": "https://pintor3-90a35.firebaseio.com",
+    "project_id": "pintor3-90a35",
+    "storage_bucket": "pintor3-90a35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949652611257:android:4d885db0baba89a64bbb68",
+        "android_client_info": {
+          "package_name": "com.example.pintor30"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949652611257-auk0v9ae993hci8gota4ba4jp6m7kies.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlzTZ74c010WiaRRx0QJluegpSHM1uZNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949652611257-auk0v9ae993hci8gota4ba4jp6m7kies.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
