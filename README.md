@@ -1,7 +1,7 @@
 # Telefone Sem Fio
 
-<img src="./assets/01.jpg" width="450"/><img src="./assets/02.jpg" width="450"/>
-<img src="./assets/03.jpg" width="300"/><img src="./assets/04.jpg" width="300"/><img src="./assets/05.jpg" width="300"/>
+<img src="./assets/01.jpg" width="300"/><img src="./assets/02.jpg" width="300"/><br/>
+<img src="./assets/03.jpg" width="200"/><img src="./assets/04.jpg" width="200"/><img src="./assets/05.jpg" width="200"/>
 
 Projeto desenvolvido em 2019 na escola La Salle Abel para atender alunos da Assistência Educacional Especializada
  
